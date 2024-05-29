@@ -1,0 +1,810 @@
+Sync started at Tue Oct 16 14:10:41 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9541     9541         0        0        0
+`em_m_movementline`          25133    25098         0        0        0
+`em_move_status`             37915    37915         0        0        0
+`em_printjob`                  294    16620         0        0        0
+`m_inout`                        0     6233         0        0        0
+`m_inoutline`                    0    14513         0        0        0
+Sync started at Tue Oct 16 18:32:29 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763  Sync started at Tue Oct 16 18:39:31 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9542     9542         0        0        0
+`em_m_movementline`          25139    25104         0        0        0
+`em_move_status`             37916    37916         0        0        0
+`em_printjob`                  294    16623         0        0        0
+`m_inout`                        0     6234         0        0        0
+`m_inoutline`                    0    14514         0        0        0
+Sync started at Wed Oct 17 09:48:56 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9542     9542         0        0        0
+`em_m_movementline`          25139    25104         0        0        0
+`em_move_status`             37916    37916         0        0        0
+`em_printjob`                  294    16623         0        0        0
+`m_inout`                        0     6234         0        0        0
+`m_inoutline`                    0    14514         0        0        0
+Sync started at Wed Oct 17 10:11:31 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9542     9542         0        0        0
+`em_m_movementline`          25139    25104         0        0        0
+`em_move_status`             37916    37916         0        0        0
+`em_printjob`                  294    16623         0        0        0
+`m_inout`                        0     6234         0        0        0
+`m_inoutline`                    0    14514         0        0        0
+Sync started at Thu Oct 18 10:46:36 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9562     9562         0        0        0
+`em_m_movementline`          25189    25154         0        0        0
+`em_move_status`             37943    37943         0        0        0
+`em_printjob`                  294    16632         0        0        0
+`m_inout`                        0     6260         0        0        0
+`m_inoutline`                    0    14561         0        0        0
+Sync started at Sat Oct 20 09:36:11 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9569     9569         0        0        0
+`em_m_movementline`          25189    25168         0        0        0
+`em_move_status`             37943    37952         0        0        0
+`em_printjob`                  294    16635         0        0        0
+`m_inout`                        0     6263         0        0        0
+`m_inoutline`                    0    14574         0        0        0
+Sync started at Sat Oct 20 10:00:27 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9569     9569         0        0        0
+`em_m_movementline`          25203    25168         0        0        0
+`em_move_status`             37952    37952         0        0        0
+`em_printjob`                  294    16635         0        0        0
+`m_inout`                        0     6263         0        0        0
+`m_inoutline`                    0    14574         0        0        0
+Sync started at Sat Oct 20 12:02:07 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9571     9571         0        0        0
+`em_m_movementline`          25210    25175         0        0        0
+`em_move_status`             37962    37954         8        0        0
+`em_printjob`                  294    16639         0        0        0
+`m_inout`                        0     6265         0        0        0
+`m_inoutline`                    0    14576         0        0        0
+Sync started at Mon Oct 22 10:40:18 2018
+
+
+`em_m_moverequest`            2557     2557         0        0        0
+`em_m_moverequestline`        7763     7763         0        0        0
+`em_m_movement`               9574     9574         0        0        0
+`em_m_movementline`          25219    25184         0        0        0
+`em_move_status`             37975    37975         0        0        0
+`em_printjob`                  294    16644         0        0        0
+`m_inout`                        0     6268         0        0        0
+`m_inoutline`                    0    14581         0        0        0
+Sync started at Fri Oct 26 09:21:36 2018
+
+
+`em_m_moverequest`            2563     2563         0        0        0
+`em_m_moverequestline`        7779     7779         0        0        0
+`em_m_movement`               9762     9760         2        0        0
+`em_m_movementline`          25557    25520         2        0        0
+`em_move_status`             38316    38314         2        0        0
+`em_printjob`                  296    16920         2        0        0
+`m_inout`                        0     6333         0        0        0
+`m_inoutline`                    0    14903         0        0        0
+Sync started at Sat Oct 27 11:24:16 2018
+
+
+`em_m_moverequest`            2563     2563         0        0        0
+`em_m_moverequestline`        7779     7779         0        0        0
+`em_m_movement`               9766     9766         0        0        0
+`em_m_movementline`          25565    25530         0        0        0
+`em_move_status`             38366    38360         6        0        0
+`em_printjob`                  296    16927         0        0        0
+`m_inout`                        0     6336         0        0        0
+`m_inoutline`                    0    14909         0        0        0
+Sync started at Wed Oct 31 08:52:46 2018
+
+
+`em_m_moverequest`            2565     2565         0        0        0
+`em_m_moverequestline`        7783     7783         0        0        0
+`em_m_movement`               9800     9800         0        0        0
+`em_m_movementline`          25665    25630         0        0        0
+`em_move_status`             38549    38549         0        0        0
+`em_printjob`                  296    16977         0        0        0
+`m_inout`                        0     6365         0        0        0
+`m_inoutline`                    0    15103         0        0        0
+Sync started at Wed Oct 31 10:46:27 2018
+
+
+`em_m_moverequest`            2565     2565         0        0        0
+`em_m_moverequestline`        7783     7783         0        0        0
+`em_m_movement`               9801     9801         0        0        0
+`em_m_movementline`          25669    25634         0        0        0
+`em_move_status`             38558    38554         4        0        0
+`em_printjob`                  296    16980         0        0        0
+`m_inout`                        0     6366         0        0        0
+`m_inoutline`                    0    15105         0        0        0
+Sync started at Mon Nov 05 08:53:14 2018
+
+
+`em_m_moverequest`            2565     2569         0        0        0
+`em_m_moverequestline`        7783     7796         0        0        0
+`em_m_movement`               9802     9816         1        0        0
+`em_m_movementline`          25670    25675         1        0        0
+`em_move_status`             38559    38605         1        0        0
+`em_printjob`                  297    17005         1        0        0
+`m_inout`                        0     6394         0        0        0
+`m_inoutline`                    0    15158         0        0        0
+Sync started at Mon Nov 05 10:42:40 2018
+
+
+`em_m_moverequest`            2569     2569         0        0        0
+`em_m_moverequestline`        7796     7796         0        0        0
+`em_m_movement`               9817     9817         0        0        0
+`em_m_movementline`          25711    25676         0        0        0
+`em_move_status`             38612    38606         6        0        0
+`em_printjob`                  297    17009         0        0        0
+`m_inout`                        0     6397         0        0        0
+`m_inoutline`                    0    15168         0        0        0
+Sync started at Mon Nov 12 08:56:39 2018
+
+
+`em_m_moverequest`            2576     2573         3        0        0
+`em_m_moverequestline`        7813     7805         8        0        0
+`em_m_movement`               9851     9851         0        0        0
+`em_m_movementline`          25793    25758         0        0        0
+`em_move_status`             38732    38740         5        0        0
+`em_printjob`                  300    17065         3        0        0
+`m_inout`                        0     6420         0        0        0
+`m_inoutline`                    0    15217         0        0        0
+Sync started at Tue Nov 13 10:33:27 2018
+
+
+`em_m_moverequest`            2576     2580         0        0        0
+`em_m_moverequestline`        7813     7827  Error No. 2013
+Lost connection to MySQL server during query
+       0        0        0
+No database selected - Could not get FIELD information for '`em_m_movement`' in the TARGET database
+No database selected - Could not get FIELD information for '`em_m_movementline`' in the TARGET database
+No database selected - Could not get FIELD information for '`em_move_status`' in the TARGET database
+No database selected - Could not get FIELD information for '`em_printjob`' in the TARGET database
+No database selected - Could not get FIELD information for '`m_inout`' in the TARGET database
+No database selected - Could not get FIELD information for '`m_inoutline`' in the TARGET database
+Error No. 1231
+Variable 'sql_notes' can't be set to the value of 'NULL'
+Sync started at Tue Nov 13 16:03:51 2018
+
+
+`em_m_moverequest`            2580     2580         0        0        0
+`em_m_moverequestline`        7827     7827         0        0        0
+`em_m_movement`               9855     9855         0        0        0
+`em_m_movementline`          25813    25778         0        0        0
+`em_move_status`             38763    38761         2        0        0
+`em_printjob`                  300    17099         0        0        0
+`m_inout`                        0     6434         0        0        0
+`m_inoutline`                    0    15240         0        0        0
+Sync started at Fri Nov 16 11:55:35 2018
+
+
+`em_m_moverequest`            2580     2580         0        0        0
+`em_m_moverequestline`        7827     7827         0        0        0
+`em_m_movement`               9870     9870         0        0        0
+`em_m_movementline`          25850    25815         0        0        0
+`em_move_status`             38835    38835         0        0        0
+`em_printjob`                  300    17114         0        0        0
+`m_inout`                        0     6458         0        0        0
+`m_inoutline`                    0    15285         0        0        0
+Sync started at Thu Nov 22 08:49:06 2018
+
+
+`em_m_moverequest`             134     2580         1        0        0
+`em_m_moverequestline`         778     7827         3        0        0
+`em_m_movement`               1212     9914         5        0        0
+`em_m_movementline`           2952    25953  Error No. 2013
+Lost connection to MySQL server during query
+       0        0        0
+No database selected - Could not get FIELD information for '`em_move_status`' in the TARGET database
+No database selected - Could not get FIELD information for '`em_printjob`' in the TARGET database
+No database selected - Could not get FIELD information for '`m_inout`' in the TARGET database
+No database selected - Could not get FIELD information for '`m_inoutline`' in the TARGET database
+Error No. 1231
+Variable 'sql_notes' can't be set to the value of 'NULL'
+Sync started at Sat Nov 24 08:27:44 2018
+
+
+`em_m_moverequest`             134     2586         0        0        0
+`em_m_moverequestline`         778     7853         0        0        0
+`em_m_movement`               1212     9933         0        0        0
+`em_m_movementline`           2952    25987         8        0        0
+`em_move_status`             12156    39023         8        0        0
+`em_printjob`                  296    17187         6        0        0
+`m_inout`                        0     6486         0        0        0
+`m_inoutline`                    0    15334         0        0        0
+Sync started at Sat Nov 24 09:12:13 2018
+
+
+`em_m_moverequest`             134     2586         0        0        0
+`em_m_moverequestline`         778     7853         0        0        0
+`em_m_movement`               1212     9933         0        0        0
+`em_m_movementline`           2952    25995         0        0        0
+`em_move_status`             12156    39031         0        0        0
+`em_printjob`                  296    17193         0        0        0
+`m_inout`                        0     6486         0        0        0
+`m_inoutline`                    0    15334         0        0        0
+Sync started at Tue Nov 27 09:44:04 2018
+
+
+`em_m_moverequest`             140      144         1        0        0
+`em_m_moverequestline`         804      815         3        0        0
+`em_m_movement`               1275     1275         0        0        0
+`em_m_movementline`           3135     3100         0        0        0
+`em_move_status`             12358    12357         1        0        0
+`em_printjob`                  297     6313         1        0        0
+`m_inout`                        0     6487         0        0        0
+`m_inoutline`                    0    15335         0        0        0
+Sync started at Wed Nov 28 17:00:36 2018
+
+
+`em_m_moverequest`             145      145         0        0        0
+`em_m_moverequestline`         818      818         0        0        0
+`em_m_movement`               1304     1306         0        0        0
+`em_m_movementline`           3220     3185         0        0        0
+`em_move_status`             13407    13405         2        0        0
+`em_printjob`                  298     6363  Error No. 2013
+Lost connection to MySQL server during query
+No database selected - Could not get FIELD information for '`m_inout`' in the TARGET database
+No database selected - Could not get FIELD information for '`m_inoutline`' in the TARGET database
+Error No. 1231
+Variable 'sql_notes' can't be set to the value of 'NULL'
+Sync started at Thu Nov 29 10:06:42 2018
+
+
+`em_m_moverequest`             145      145         0        0        0
+`em_m_moverequestline`         818      818         0        0        0
+`em_m_movement`               1315     1315         0        0        0
+`em_m_movementline`           3253     3218         0        0        0
+`em_move_status`             13430    13430         0        0        0
+`em_printjob`                  298     6367         1        0        0
+`m_inout`                        0     6532         0        0        0
+`m_inoutline`                    0    15438         0        0        0
+Sync started at Thu Nov 29 15:22:43 2018
+
+
+`em_m_moverequest`             145      145         0        0        0
+`em_m_moverequestline`         818      818         0        0        0
+`em_m_movement`               1316     1316         0        0        0
+`em_m_movementline`           3254     3219         0        0        0
+`em_move_status`             13484    13484         0        0        0
+`em_printjob`                  298     6372         0        0        0
+`m_inout`                        0     6535         0        0        0
+`m_inoutline`                    0    15443         0        0        0
+Sync started at Fri Nov 30 09:13:44 2018
+
+
+`em_m_moverequest`             145      145         0        0        0
+`em_m_moverequestline`         818      818         0        0        0
+`em_m_movement`               1325     1325         0        0        0
+`em_m_movementline`           3282     3247         0        0        0
+`em_move_status`             13527    13527         0        0        0
+`em_printjob`                  298     6377         0        0        0
+`m_inout`                        0     6536         0        0        0
+`m_inoutline`                    0    15445         0        0        0
+Sync started at Sat Dec 01 10:51:04 2018
+
+
+`em_m_moverequest`             145      145         0        0        0
+`em_m_moverequestline`         818      818         0        0        0
+`em_m_movement`               1334     1334         0        0        0
+`em_m_movementline`           3316     3281         0        0        0
+`em_move_status`             13566    13566         0        0        0
+`em_printjob`                  298     6393         0        0        0
+`m_inout`                        0     6544         0        0        0
+`m_inoutline`                    0    15465         0        0        0
+Sync started at Mon Dec 03 12:16:08 2018
+
+
+`em_m_moverequest`             149      148         1        0        0
+`em_m_moverequestline`         835      830         5        0        0
+`em_m_movement`               1340     1340         0        0        0
+`em_m_movementline`           3343     3308         0        0        0
+`em_move_status`             13593    13592         1        0        0
+`em_printjob`                  299     6406         1        0        0
+`m_inout`                        0     6554         0        0        0
+`m_inoutline`                    0    15491         0        0        0
+Sync started at Mon Dec 03 12:20:57 2018
+
+
+`em_m_moverequest`             149      149         0        0        0
+`em_m_moverequestline`         835      835         0        0        0
+`em_m_movement`               1340     1340         0        0        0
+`em_m_movementline`           3343     3308         0        0        0
+`em_move_status`             13593    13593         0        0        0
+`em_printjob`                  299     6407         0        0        0
+`m_inout`                        0     6554         0        0        0
+`m_inoutline`                    0    15491         0        0        0
+Sync started at Tue Dec 04 09:22:37 2018
+
+
+`em_m_moverequest`             149      149         0        0        0
+`em_m_moverequestline`         835      835         0        0        0
+`em_m_movement`               1343     1343         0        0        0
+`em_m_movementline`           3354     3319         0        0        0
+`em_move_status`             13668    13668         0        0        0
+`em_printjob`                  299     6412         0        0        0
+`m_inout`                        0     6557         0        0        0
+`m_inoutline`                    0    15498         0        0        0
+Sync started at Thu Dec 06 09:03:21 2018
+
+
+`em_m_moverequest`             149      149         0        0        0
+`em_m_moverequestline`         835      835         0        0        0
+`em_m_movement`               1469     1469         0        0        0
+`em_m_movementline`           3587     3552         0        0        0
+`em_move_status`             14044    14044         0        0        0
+`em_printjob`                  299     6436         0        0        0
+`m_inout`                        0     6572         0        0        0
+`m_inoutline`                    0    15523         0        0        0
+Sync started at Thu Dec 06 10:03:42 2018
+
+
+`em_m_moverequest`             149      149         0        0        0
+`em_m_moverequestline`         835      835         0        0        0
+`em_m_movement`               1502     1502         0        0        0
+`em_m_movementline`           3639     3604         0        0        0
+`em_move_status`             14091    14077        14        0        0
+`em_printjob`                  299     6438         0        0        0
+`m_inout`                        0     6585         0        0        0
+`m_inoutline`                    0    15550         0        0        0
+Sync started at Sat Dec 08 09:56:52 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1938     1936         2        0        0
+`em_m_movementline`           4651     4613         3        0        0
+`em_move_status`             14471    14467         4        0        0
+`em_printjob`                  301     6669         2        0        0
+`m_inout`                        0     6676         0        0        0
+`m_inoutline`                    0    15710         0        0        0
+Sync started at Sat Dec 08 10:19:25 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1939     1939         0        0        0
+`em_m_movementline`           4654     4619         0        0        0
+`em_move_status`             14478    14478         0        0        0
+`em_printjob`                  301     6672         0        0        0
+`m_inout`                        0     6684         0        0        0
+`m_inoutline`                    0    15718         0        0        0
+Sync started at Mon Dec 10 09:45:32 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1940     1940         0        0        0
+`em_m_movementline`           4655     4620         0        0        0
+`em_move_status`             14513    14503        10        0        0
+`em_printjob`                  301     6677         0        0        0
+`m_inout`                        0     6702         0        0        0
+`m_inoutline`                    0    15743         0        0        0
+Sync started at Mon Dec 10 17:38:54 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1942     1942         0        0        0
+`em_m_movementline`           4662     4627         0        0        0
+`em_move_status`             14589    14589         0        0        0
+`em_printjob`                  301     6680         0        0        0
+`m_inout`                        0     6708         0        0        0
+`m_inoutline`                    0    15751         0        0        0
+Sync started at Tue Dec 11 09:18:36 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1942     1942         0        0        0
+`em_m_movementline`           4662     4627         0        0        0
+`em_move_status`             14605    14605         0        0        0
+`em_printjob`                  301     6680         0        0        0
+`m_inout`                        0     6770         0        0        0
+`m_inoutline`                    0    15850         0        0        0
+Sync started at Thu Dec 13 09:34:57 2018
+
+
+`em_m_moverequest`             173      173         0        0        0
+`em_m_moverequestline`         961      961         0        0        0
+`em_m_movement`               1996     1996         0        0        0
+`em_m_movementline`           4749     4714         0        0        0
+`em_move_status`             14806    14806         0        0        0
+`em_printjob`                  301     6702         0        0        0
+`m_inout`                        0     6828         0        0        0
+`m_inoutline`                    0    15942         0        0        0
+Sync started at Sat Dec 15 12:52:53 2018
+
+
+`em_m_moverequest`             176      176         0        0        0
+`em_m_moverequestline`         970      970         0        0        0
+`em_m_movement`               2021     2021         0        0        0
+`em_m_movementline`           4829     4794         0        0        0
+`em_move_status`             14892    14886         6        0        0
+`em_printjob`                  301     6730         0        0        0
+`m_inout`                        0     6843         0        0        0
+`m_inoutline`                    0    15975         0        0        0
+Sync started at Mon Dec 17 11:15:30 2018
+
+
+`em_m_moverequest`             177      177         0        0        0
+`em_m_moverequestline`         971      971         0        0        0
+`em_m_movement`               2026     2025         1        0        0
+`em_m_movementline`           4837     4801         1        0        0
+`em_move_status`             14912    14909         3        0        0
+`em_printjob`                  302     6737         1        0        0
+`m_inout`                        0     6847         0        0        0
+`m_inoutline`                    0    15981         0        0        0
+Sync started at Tue Dec 18 09:30:48 2018
+
+
+`em_m_moverequest`             177      177         0        0        0
+`em_m_moverequestline`         971      971         0        0        0
+`em_m_movement`               2035     2035         0        0        0
+`em_m_movementline`           4852     4817         0        0        0
+`em_move_status`             14952    14952         4        0        0
+`em_printjob`                  302     6750         0        0        0
+`m_inout`                        0     6852         0        0        0
+`m_inoutline`                    0    15988  Error No. 2013
+Lost connection to MySQL server during query
+Error No. 1231
+Variable 'sql_notes' can't be set to the value of 'NULL'
+Sync started at Wed Dec 19 08:49:58 2018
+
+
+`em_m_moverequest`             178      178         0        0        0
+`em_m_moverequestline`         973      973         0        0        0
+`em_m_movement`               2046     2046         0        0        0
+`em_m_movementline`           4877     4842         0        0        0
+`em_move_status`             15005    15005         0        0        0
+`em_printjob`                  303     6764         0        0        0
+`m_inout`                        0     6857         0        0        0
+`m_inoutline`                    0    15998         0        0        0
+Sync started at Sat Dec 22 11:24:16 2018
+
+
+`em_m_moverequest`             179      179         0        0        0
+`em_m_moverequestline`         974      974         0        0        0
+`em_m_movement`               2094     2129         0        0        0
+`em_m_movementline`           4976     5036         0        0        0
+`em_move_status`             15179    15179         0        0        0
+`em_printjob`                  305     6797         0        0        0
+`m_inout`                        0     6886         0        0        0
+`m_inoutline`                    0    16062         0        0        0
+Sync started at Mon Dec 24 16:26:34 2018
+
+
+`em_m_moverequest`             182      182         0        0        0
+`em_m_moverequestline`         985      985         0        0        0
+`em_m_movement`               2105     2140         0        0        0
+`em_m_movementline`           5006     5066         0        0        0
+`em_move_status`             15209    15206         0        0        0
+`em_printjob`                  305     6813         0        0        0
+`m_inout`                        0     6895         0        0        0
+`m_inoutline`                    0    16075         0        0        0
+Sync started at Tue Dec 25 15:33:14 2018
+
+
+`em_m_moverequest`             182      182         0        0        0
+`em_m_moverequestline`         985      985         0        0        0
+`em_m_movement`               2111     2146         0        0        0
+`em_m_movementline`           5024     5084         0        0        0
+`em_move_status`             15233    15230         0        0        0
+`em_printjob`                  305     6820         0        0        0
+`m_inout`                        0     6899         0        0        0
+`m_inoutline`                    0    16081         0        0        0
+Sync started at Wed Dec 26 09:46:03 2018
+
+
+`em_m_moverequest`             182      182         0        0        0
+`em_m_moverequestline`         985      985         0        0        0
+`em_m_movement`               2133     2168         0        0        0
+`em_m_movementline`           5103     5163         0        0        0
+`em_move_status`             15264    15261         0        0        0
+`em_printjob`                  305     6859         0        0        0
+`m_inout`                        0     6922         0        0        0
+`m_inoutline`                    0    16263         0        0        0
+Sync started at Thu Dec 27 09:05:48 2018
+
+
+`em_m_moverequest`             182      182         0        0        0
+`em_m_moverequestline`         985      985         0        0        0
+`em_m_movement`               2181     2181         0        0        0
+`em_m_movementline`           5204     5176         0        0        0
+`em_move_status`             15371    15370         0        0        0
+`em_printjob`                  306     6884         0        0        0
+`m_inout`                        0     6936         0        0        0
+`m_inoutline`                    0    16288         0        0        0
+Sync started at Sat Dec 29 18:58:15 2018
+
+
+`em_m_moverequest`             187      187         0        0        0
+`em_m_moverequestline`        1012     1012         0        0        0
+`em_m_movement`               2248     2248         0        0        0
+`em_m_movementline`           5329     5301         0        0        0
+`em_move_status`             15682    15681         0        0        0
+`em_printjob`                  307     6945         0        0        0
+`m_inout`                        0     7002         0        0        0
+`m_inoutline`                    0    16403         0        0        0
+Sync started at Mon Dec 31 08:53:53 2018
+
+
+`em_m_moverequest`             187      187         0        0        0
+`em_m_moverequestline`        1012     1012         0        0        0
+`em_m_movement`               2248     2248         0        0        0
+`em_m_movementline`           5329     5301         0        0        0
+`em_move_status`             15682    15681         0        0        0
+`em_printjob`                  307     6945         0        0        0
+`m_inout`                        0     7002         0        0        0
+`m_inoutline`                    0    16403         0        0        0
+Sync started at Mon Dec 31 17:57:21 2018
+
+
+`em_m_moverequest`             187      187         0        0        0
+`em_m_moverequestline`        1012     1012         0        0        0
+`em_m_movement`               2258     2257         1        0        0
+`em_m_movementline`           5365     5336         1        0        0
+`em_move_status`             15696    15694         1        0        0
+`em_printjob`                  308     6958         1        0        0
+`m_inout`                        0     7007         0        0        0
+`m_inoutline`                    0    16413         0        0        0
+Sync started at Tue Jan 01 09:43:39 2019
+
+
+`em_m_moverequest`             187      187         0        0        0
+`em_m_moverequestline`        1012     1012         0        0        0
+`em_m_movement`               2259     2259         0        0        0
+`em_m_movementline`           5370     5342         0        0        0
+`em_move_status`             15697    15696         0        0        0
+`em_printjob`                  308     6960         0        0        0
+`m_inout`                        0     7007         0        0        0
+`m_inoutline`                    0    16413         0        0        0
+Sync started at Fri Jan 04 09:10:21 2019
+
+
+`em_m_moverequest`             191      191         0        0        0
+`em_m_moverequestline`        1024     1024         0        0        0
+`em_m_movement`               2300     2300         0        0        0
+`em_m_movementline`           5540     5512         0        0        0
+`em_move_status`             15812    15811         0        0        0
+`em_printjob`                  309     7012         0        0        0
+`m_inout`                        0     7024         0        0        0
+`m_inoutline`                    0    16446         0        0        0
+Sync started at Fri Jan 04 10:46:33 2019
+
+
+`em_m_moverequest`             191      191         0        0        0
+`em_m_moverequestline`        1024     1024         0        0        0
+`em_m_movement`               2305     2305         0        0        0
+`em_m_movementline`           5556     5528         0        0        0
+`em_move_status`             15821    15820         0        0        0
+`em_printjob`                  309     7021         0        0        0
+`m_inout`                        0     7029         0        0        0
+`m_inoutline`                    0    16455         0        0        0
+Sync started at Fri Jan 04 14:19:39 2019
+
+
+`em_m_moverequest`             191      191         0        0        0
+`em_m_moverequestline`        1024     1024         0        0        0
+`em_m_movement`               2307     2307         0        0        0
+`em_m_movementline`           5560     5532         0        0        0
+`em_move_status`             15831    15830         0        0        0
+`em_printjob`                  309     7026         0        0        0
+`m_inout`                        0     7033         0        0        0
+`m_inoutline`                    0    16465         0        0        0
+Sync started at Wed Jan 09 12:04:32 2019
+
+
+`em_m_moverequest`             198      198         0        0        0
+`em_m_moverequestline`        1051     1051         0        0        0
+`em_m_movement`               2329     2329         0        0        0
+`em_m_movementline`           5606     5578         0        0        0
+`em_move_status`             15908    15907         0        0        0
+`em_printjob`                  310     7062         0        0        0
+`m_inout`                        0     7043         0        0        0
+`m_inoutline`                    0    16476         0        0        0
+Sync started at Fri Jan 11 10:37:11 2019
+
+
+`em_m_moverequest`             198      198         0        0        0
+`em_m_moverequestline`        1051     1051         0        0        0
+`em_m_movement`               2349     2349         0        0        0
+`em_m_movementline`           5685     5657         0        0        0
+`em_move_status`             15956    15955         0        0        0
+`em_printjob`                  310     7082         0        0        0
+`m_inout`                        0     7043         0        0        0
+`m_inoutline`                    0    16476         0        0        0
+Sync started at Fri Jan 11 17:47:38 2019
+
+
+`em_m_moverequest`             198      198         0        0        0
+`em_m_moverequestline`        1051     1051         0        0        0
+`em_m_movement`               2350     2350         0        0        0
+`em_m_movementline`           5689     5661         0        0        0
+`em_move_status`             15964    15956         6        0        0
+`em_printjob`                  310     7085         0        0        0
+`m_inout`                        0     7045         0        0        0
+`m_inoutline`                    0    16488         0        0        0
+Sync started at Sat Jan 12 08:59:23 2019
+
+
+`em_m_moverequest`             198      198         0        0        0
+`em_m_moverequestline`        1051     1051         0        0        0
+`em_m_movement`               2350     2350         0        0        0
+`em_m_movementline`           5689     5661         0        0        0
+`em_move_status`             15972    15970         0        0        0
+`em_printjob`                  310     7086         0        0        0
+`m_inout`                        0     7047         0        0        0
+`m_inoutline`                    0    16496         0        0        0
+Sync started at Wed Jan 16 09:15:57 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2391     2391         0        0        0
+`em_m_movementline`           5808     5780         0        0        0
+`em_move_status`             16098    16096         0        0        0
+`em_printjob`                  311     7130         0        0        0
+`m_inout`                        0     7053         0        0        0
+`m_inoutline`                    0    16512         0        0        0
+Sync started at Thu Jan 17 10:46:02 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2397     2397         0        0        0
+`em_m_movementline`           5826     5798         0        0        0
+`em_move_status`             16140    16134         4        0        0
+`em_printjob`                  312     7139         0        0        0
+`m_inout`                        0     7055         0        0        0
+`m_inoutline`                    0    16515         0        0        0
+Sync started at Tue Jan 22 09:55:37 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2420     2420         0        0        0
+`em_m_movementline`           5876     5848         0        0        0
+`em_move_status`             16200    16198         0        0        0
+`em_printjob`                  315     7177         0        0        0
+`m_inout`                        0     7064         0        0        0
+`m_inoutline`                    0    16536         0        0        0
+Sync started at Tue Jan 22 10:43:09 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2420     2420         0        0        0
+`em_m_movementline`           5876     5848         0        0        0
+`em_move_status`             16202    16198         2        0        0
+`em_printjob`                  315     7178         0        0        0
+`m_inout`                        0     7065         0        0        0
+`m_inoutline`                    0    16539         0        0        0
+Sync started at Wed Jan 23 09:18:45 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2428     2428         0        0        0
+`em_m_movementline`           5896     5868         0        0        0
+`em_move_status`             16222    16216         4        0        0
+`em_printjob`                  315     7188         0        0        0
+`m_inout`                        0     7071         0        0        0
+`m_inoutline`                    0    16550         0        0        0
+Sync started at Wed Jan 23 09:29:30 2019
+
+
+`em_m_moverequest`             201      201         0        0        0
+`em_m_moverequestline`        1060     1060         0        0        0
+`em_m_movement`               2428     2428         0        0        0
+`em_m_movementline`           5896     5868         0        0        0
+`em_move_status`             16222    16220         0        0        0
+`em_printjob`                  315     7188         0        0        0
+`m_inout`                        0     7071         0        0        0
+`m_inoutline`                    0    16550         0        0        0
+Sync started at Fri Jan 25 10:14:32 2019
+
+
+`em_m_moverequest`             205      205         0        0        0
+`em_m_moverequestline`        1077     1077         0        0        0
+`em_m_movement`               2445     2445         0        0        0
+`em_m_movementline`           5942     5914         0        0        0
+`em_move_status`             16285    16283         0        0        0
+`em_printjob`                  315     7223         0        0        0
+`m_inout`                        0     7083         0        0        0
+`m_inoutline`                    0    16568         0        0        0
+Sync started at Mon Jan 28 11:26:15 2019
+
+
+`em_m_moverequest`             206      206         0        0        0
+`em_m_moverequestline`        1081     1081         0        0        0
+`em_m_movement`               2490     2490         0        0        0
+`em_m_movementline`           6010     5987         0        0        0
+`em_move_status`             16385    16381         4        0        0
+`em_printjob`                  317     7286         0        0        0
+`m_inout`                        0     7133         0        0        0
+`m_inoutline`                    0    16628         0        0        0
+Sync started at Mon Jan 28 12:24:08 2019
+
+
+`em_m_moverequest`             207      207         0        0        0
+`em_m_moverequestline`        1084     1084         0        0        0
+`em_m_movement`               2493     2493         0        0        0
+`em_m_movementline`           6020     5992         0        0        0
+`em_move_status`             16400    16398         0        0        0
+`em_printjob`                  318     7289         0        0        0
+`m_inout`                        0     7133         0        0        0
+`m_inoutline`                    0    16628         0        0        0
+Sync started at Mon Jan 28 12:35:06 2019
+
+
+`em_m_moverequest`             210      210         0        0        0
+`em_m_moverequestline`        1100     1100         0        0        0
+`em_m_movement`               2493     2493         0        0        0
+`em_m_movementline`           6020     5992         0        0        0
+`em_move_status`             16402    16403         0        0        0
+`em_printjob`                  318     7293         0        0        0
+`m_inout`                        0     7133         0        0        0
+`m_inoutline`                    0    16628         0        0        0
+Sync started at Mon Jan 28 16:06:08 2019
+
+
+`em_m_moverequest`             210      210         0        0        0
+`em_m_moverequestline`        1100     1100         0        0        0
+`em_m_movement`               2496     2496         0        0        0
+`em_m_movementline`           6026     5998         0        0        0
+`em_move_status`             16412    16408         2        0        0
+`em_printjob`                  318     7297         0        0        0
+`m_inout`                        0     7133         0        0        0
+`m_inoutline`                    0    16628         0        0        0
+Sync started at Tue Jan 29 09:26:33 2019
+
+
+`em_m_moverequest`             210      210         0        0        0
+`em_m_moverequestline`        1100     1100         0        0        0
+`em_m_movement`               2496     2496         0        0        0
+`em_m_movementline`           6026     5998         0        0        0
+`em_move_status`             16420    16418         0        0        0
+`em_printjob`                  318     7297         0        0        0
+`m_inout`                        0     7133         0        0        0
+`m_inoutline`                    0    16628         0        0        0
+Sync started at Wed Jan 30 10:39:35 2019
+
+
+`em_m_moverequest`             210      210         0        0        0
+`em_m_moverequestline`        1100     1100         0        0        0
+`em_m_movement`               2510     2510         0        0        0
+`em_m_movementline`           6053     6029         0        0        0
+`em_move_status`             16459    16467         0        0        0
+`em_printjob`                  318     7324         0        0        0
+`m_inout`                        0     7144         0        0        0
+`m_inoutline`                    0    16646         0        0        0

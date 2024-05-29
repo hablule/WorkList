@@ -1,0 +1,16 @@
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\stockActivityReporter.exe
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\stockActivityReporter.pdb
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.Properties.Resources.resources
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.csproj.GenerateResource.Cache
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.exe
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.pdb
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\CheckBoxComboBox.dll
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\CheckBoxComboBox.pdb
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.stockActivityReport.resources
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\customControls.dll
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\customControls.pdb
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\dbConnection.exe
+D:\c#Code\stockActivityReporter\stockActivityReporter\bin\Debug\dbConnection.pdb
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.frmPrintPreview.resources
+D:\c#Code\stockActivityReporter\stockActivityReporter\obj\Debug\stockActivityReporter.frmLogIn.resources

@@ -1,0 +1,17 @@
+D:\c#Code\BankPayments\BankPayments\bin\Debug\BankPayments.exe
+D:\c#Code\BankPayments\BankPayments\bin\Debug\BankPayments.pdb
+D:\c#Code\BankPayments\BankPayments\bin\Debug\customControls.dll
+D:\c#Code\BankPayments\BankPayments\bin\Debug\customControls.pdb
+D:\c#Code\BankPayments\BankPayments\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmBankPayment.resources
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.Properties.Resources.resources
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.csproj.GenerateResource.Cache
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.exe
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.pdb
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmAllocate.resources
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmNewBpartner.resources
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmSearchPayment.resources
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmLogIn.resources
+D:\c#Code\BankPayments\BankPayments\bin\Debug\dbConnection.exe
+D:\c#Code\BankPayments\BankPayments\bin\Debug\dbConnection.pdb
+D:\c#Code\BankPayments\BankPayments\obj\Debug\BankPayments.frmDocPrintPreview.resources

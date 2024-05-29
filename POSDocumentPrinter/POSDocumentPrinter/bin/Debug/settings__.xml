@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Settings>
+    <Parameter_Name>ckPOSAutoStartSynch</Parameter_Name>
+    <Parameter_Value>False</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckPOSLogChangeScripts</Parameter_Name>
+    <Parameter_Value>False</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSPort</Parameter_Name>
+    <Parameter_Value>3306</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSWarningDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\My Documents</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSErrorDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\My Documents</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSPassword</Parameter_Name>
+    <Parameter_Value>e4r5t6y7</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSUserName</Parameter_Name>
+    <Parameter_Value>root</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSDataBaseName</Parameter_Name>
+    <Parameter_Value>marakitest</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSServerName</Parameter_Name>
+    <Parameter_Value>glhqserver</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtPOSScriptDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\My Documents</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>station</Parameter_Name>
+    <Parameter_Value>1</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>centralStation</Parameter_Name>
+    <Parameter_Value>1</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>concernedNode</Parameter_Name>
+    <Parameter_Value>1</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>cmbPOSPrinterNameList</Parameter_Name>
+    <Parameter_Value>\\glhqserver\Panasonic DP-8016P Ver. 2</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>cmbPOSDataBaseType</Parameter_Name>
+    <Parameter_Value>MySql</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>posEnableDeliveryOrderPrint</Parameter_Name>
+    <Parameter_Value>False</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>machineRegistrationNumber</Parameter_Name>
+    <Parameter_Value>HEE0000741</Parameter_Value>
+  </Settings>
+</DocumentElement>

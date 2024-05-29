@@ -1,0 +1,8 @@
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\bin\Debug\EMBridgeStarter.exe
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\bin\Debug\EMBridgeStarter.pdb
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\EMBridgeStarter.EMService.resources
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\EMBridgeStarter.ProjectInstaller.resources
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\EMBridgeStarter.csproj.GenerateResource.Cache
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\EMBridgeStarter.exe
+D:\c#Code\EMBridgeStarter\EMBridgeStarter\obj\Debug\EMBridgeStarter.pdb

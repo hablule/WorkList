@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Settings>
+    <Parameter_Name>txtCompPort</Parameter_Name>
+    <Parameter_Value>1521</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckCompLogChangeScripts</Parameter_Name>
+    <Parameter_Value>False</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompMapDataTiming</Parameter_Name>
+    <Parameter_Value>20</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompWarningDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\Desktop</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompErrorDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\Desktop</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompPassword</Parameter_Name>
+    <Parameter_Value>compiere</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompUserName</Parameter_Name>
+    <Parameter_Value>compiere</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompDataBaseName</Parameter_Name>
+    <Parameter_Value>maindb.glorious</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompServerName</Parameter_Name>
+    <Parameter_Value>glhqserver</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompScriptDir</Parameter_Name>
+    <Parameter_Value>C:\Documents and Settings\Administrator\Desktop</Parameter_Value>
+  </Settings>
+</DocumentElement>

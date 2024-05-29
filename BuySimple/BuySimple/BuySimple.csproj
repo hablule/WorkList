@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25BC9475-0EC8-45D0-8BAC-79435514653F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BuySimple</RootNamespace>
+    <AssemblyName>BuySimple</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>BuySimple.Program</StartupObject>
+    <ApplicationIcon>Icon1.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\BuySimple\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>0.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="SkinSoft.VisualStyler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0fda9f423e1d9830" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="businessRule.cs" />
+    <Compile Include="checkAndEstablishDbConnectionSettings.cs" />
+    <Compile Include="crptCostDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCostDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crptCostList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCostList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crptCostSheet.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCostSheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CryptoXML.cs" />
+    <Compile Include="ctlDropDownDataGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctlDropDownDataGrid.designer.cs">
+      <DependentUpon>ctlDropDownDataGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctlNumberTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctlNumberTextBox.designer.cs">
+      <DependentUpon>ctlNumberTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBuilder.cs" />
+    <Compile Include="DotnetEnv.cs" />
+    <Compile Include="dtsDocumentData.cs">
+      <DependentUpon>dtsDocumentData.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dtsDocumentData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsDocumentData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateLDAPConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateLDAPConnection.designer.cs">
+      <DependentUpon>frmCreateLDAPConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDistributeRemainingCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDistributeRemainingCost.Designer.cs">
+      <DependentUpon>frmDistributeRemainingCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocPrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocPrintPreview.designer.cs">
+      <DependentUpon>frmDocPrintPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenerateCostSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenerateCostSheet.Designer.cs">
+      <DependentUpon>frmGenerateCostSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenerateItemCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenerateItemCost.Designer.cs">
+      <DependentUpon>frmGenerateItemCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogIn.Designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaymentInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaymentInvoice.designer.cs">
+      <DependentUpon>frmPaymentInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearchPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchPayment.designer.cs">
+      <DependentUpon>frmSearchPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsettings.designer.cs">
+      <DependentUpon>frmsettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="globalVariables.cs" />
+    <Compile Include="LDAPConnection.cs" />
+    <Compile Include="persistance.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="crptCostDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCostDetail.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crptCostList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCostList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crptCostSheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCostSheet.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctlDropDownDataGrid.resx">
+      <DependentUpon>ctlDropDownDataGrid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateLDAPConnection.resx">
+      <DependentUpon>frmCreateLDAPConnection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDistributeRemainingCost.resx">
+      <DependentUpon>frmDistributeRemainingCost.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocPrintPreview.resx">
+      <DependentUpon>frmDocPrintPreview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenerateCostSheet.resx">
+      <DependentUpon>frmGenerateCostSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenerateItemCost.resx">
+      <DependentUpon>frmGenerateItemCost.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaymentInvoice.resx">
+      <DependentUpon>frmPaymentInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchPayment.resx">
+      <DependentUpon>frmSearchPayment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsettings.resx">
+      <DependentUpon>frmsettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\refreshPic.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\new.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\delete.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\first.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Previous.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Next.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\last.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\help.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\search.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dtsDocumentData.xsc">
+      <DependentUpon>dtsDocumentData.xsd</DependentUpon>
+    </None>
+    <None Include="dtsDocumentData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsDocumentData.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dtsDocumentData.xss">
+      <DependentUpon>dtsDocumentData.xsd</DependentUpon>
+    </None>
+    <None Include="Images\toogle.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

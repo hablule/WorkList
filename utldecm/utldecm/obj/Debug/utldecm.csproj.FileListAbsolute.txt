@@ -1,0 +1,8 @@
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\utldecm.frmOpenIncomingInventory.resources
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\utldecm.Properties.Resources.resources
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\utldecm.csproj.GenerateResource.Cache
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\bin\Debug\utldecm.exe
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\bin\Debug\utldecm.pdb
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\utldecm.exe
+C:\Users\ammar\Documents\Coding Project\c#Code\utldecm\utldecm\obj\Debug\utldecm.pdb

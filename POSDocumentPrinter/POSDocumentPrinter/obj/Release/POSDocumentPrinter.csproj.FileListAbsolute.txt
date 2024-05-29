@@ -1,0 +1,72 @@
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.exe
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.pdb
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\ResolveAssemblyReference.cache
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocPrintPreview.resources
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPOSDocumentPrinter.resources
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmsettings.resources
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.Properties.Resources.resources
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.csproj.GenerateResource.Cache
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.exe
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.pdb
+D:\pos-compiere integration\C# Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocumentReference.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.exe
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.pdb
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\CheckBoxComboBox.dll
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\CheckBoxComboBox.pdb
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\ResolveAssemblyReference.cache
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.DropDownDataGrid.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchOpenInvoice.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmValidateSecurityKey.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmAllocatePayment.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmBankDepositSlips.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmCashReceiptVoucher.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmCashSource.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDepositSlipPrint.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocPrintPreview.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocumentReference.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmInventory.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmLogIn.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmManualSales.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmNewCustomer.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPaymentAllocation.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPaymentExemption.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPOSDocumentPrinter.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchDeposit.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchExemption.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchPayment.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmsettings.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.Properties.Resources.resources
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.csproj.GenerateResource.Cache
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.exe
+D:\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.pdb
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.exe
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\POSDocumentPrinter.pdb
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\CheckBoxComboBox.dll
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\bin\Release\CheckBoxComboBox.pdb
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.DropDownDataGrid.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmCreateLDAPConnection.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchOpenInvoice.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmValidateSecurityKey.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmAllocatePayment.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmBankDepositSlips.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmCashReceiptVoucher.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmCashSource.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDepositSlipPrint.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocPrintPreview.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmDocumentReference.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmInventory.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmLogIn.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmManualSales.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmNewCustomer.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPaymentAllocation.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPaymentExemption.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmPOSDocumentPrinter.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchDeposit.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchExemption.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmSearchPayment.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.frmsettings.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.Properties.Resources.resources
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.csproj.GenerateResource.Cache
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.exe
+C:\Users\ammar\sourceCode\VS\c#Code\POSDocumentPrinter\POSDocumentPrinter\obj\Release\POSDocumentPrinter.pdb

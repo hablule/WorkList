@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Settings>
+    <Parameter_Name>cmbSRPPrinterName</Parameter_Name>
+    <Parameter_Value>Microsoft XPS Document Writer</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>cmbSRPDataBaseType</Parameter_Name>
+    <Parameter_Value>MySql</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckSRPLogChangeScripts</Parameter_Name>
+    <Parameter_Value>True</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPPort</Parameter_Name>
+    <Parameter_Value>3306</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPWarningDir</Parameter_Name>
+    <Parameter_Value>D:\VSproject</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPErrorDir</Parameter_Name>
+    <Parameter_Value>D:\VSproject</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPPassword</Parameter_Name>
+    <Parameter_Value>e4r5t6y7</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPUserName</Parameter_Name>
+    <Parameter_Value>root</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPDataBaseName</Parameter_Name>
+    <Parameter_Value>SRPDB</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPServerName</Parameter_Name>
+    <Parameter_Value>glhqserver</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtSRPScriptDir</Parameter_Name>
+    <Parameter_Value>D:\VSproject</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>Station</Parameter_Name>
+    <Parameter_Value>0</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>UserName</Parameter_Name>
+    <Parameter_Value>ad</Parameter_Value>
+  </Settings>
+</DocumentElement>

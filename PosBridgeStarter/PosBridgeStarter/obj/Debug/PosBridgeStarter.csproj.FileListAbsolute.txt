@@ -1,0 +1,7 @@
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\bin\Debug\PosBridgeStarter.exe
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\bin\Debug\PosBridgeStarter.pdb
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\obj\Debug\PosBridgeStarter.ProjectInstaller.resources
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\obj\Debug\PosBridgeStarter.csproj.GenerateResource.Cache
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\obj\Debug\PosBridgeStarter.exe
+D:\c#Code\PosBridgeStarter\PosBridgeStarter\obj\Debug\PosBridgeStarter.pdb

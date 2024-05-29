@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/5563788/how-to-check-a-print-job-status-with-c-sharp
+
+http://stackoverflow.com/questions/16437812/crystal-reports-load-reportdocument-failed
+
+
+
+print job limit crystal report

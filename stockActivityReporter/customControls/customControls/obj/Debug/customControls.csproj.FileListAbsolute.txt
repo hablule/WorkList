@@ -1,0 +1,14 @@
+D:\c#Code\customControls\customControls\bin\Debug\customControls.dll
+D:\c#Code\customControls\customControls\bin\Debug\customControls.pdb
+D:\c#Code\customControls\customControls\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\customControls\customControls\obj\Debug\customControls.DropDownDataGrid.resources
+D:\c#Code\customControls\customControls\obj\Debug\customControls.csproj.GenerateResource.Cache
+D:\c#Code\customControls\customControls\obj\Debug\customControls.dll
+D:\c#Code\customControls\customControls\obj\Debug\customControls.pdb
+D:\c#Code\stockActivityReporter\customControls\customControls\bin\Debug\customControls.dll
+D:\c#Code\stockActivityReporter\customControls\customControls\bin\Debug\customControls.pdb
+D:\c#Code\stockActivityReporter\customControls\customControls\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\stockActivityReporter\customControls\customControls\obj\Debug\customControls.DropDownDataGrid.resources
+D:\c#Code\stockActivityReporter\customControls\customControls\obj\Debug\customControls.csproj.GenerateResource.Cache
+D:\c#Code\stockActivityReporter\customControls\customControls\obj\Debug\customControls.dll
+D:\c#Code\stockActivityReporter\customControls\customControls\obj\Debug\customControls.pdb

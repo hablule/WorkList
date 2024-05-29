@@ -1,0 +1,8 @@
+D:\c#Code\SyncMonitor\SyncMonitor\bin\Release\SyncMonitor.exe
+D:\c#Code\SyncMonitor\SyncMonitor\bin\Release\SyncMonitor.pdb
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\ResolveAssemblyReference.cache
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\SyncMonitor.frmSyncMonitor.resources
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\SyncMonitor.Properties.Resources.resources
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\SyncMonitor.csproj.GenerateResource.Cache
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\SyncMonitor.exe
+D:\c#Code\SyncMonitor\SyncMonitor\obj\Release\SyncMonitor.pdb

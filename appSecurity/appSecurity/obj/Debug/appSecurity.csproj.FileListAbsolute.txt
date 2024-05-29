@@ -1,0 +1,8 @@
+D:\c#Code\appSecurity\appSecurity\bin\Debug\appSecurity.exe
+D:\c#Code\appSecurity\appSecurity\bin\Debug\appSecurity.pdb
+D:\c#Code\appSecurity\appSecurity\obj\Debug\ResolveAssemblyReference.cache
+D:\c#Code\appSecurity\appSecurity\obj\Debug\appSecurity.frmappSecurityMain.resources
+D:\c#Code\appSecurity\appSecurity\obj\Debug\appSecurity.Properties.Resources.resources
+D:\c#Code\appSecurity\appSecurity\obj\Debug\appSecurity.csproj.GenerateResource.Cache
+D:\c#Code\appSecurity\appSecurity\obj\Debug\appSecurity.exe
+D:\c#Code\appSecurity\appSecurity\obj\Debug\appSecurity.pdb

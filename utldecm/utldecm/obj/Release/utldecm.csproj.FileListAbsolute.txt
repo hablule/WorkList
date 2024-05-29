@@ -1,0 +1,8 @@
+D:\c#Code\utldecm\utldecm\bin\Release\utldecm.exe
+D:\c#Code\utldecm\utldecm\bin\Release\utldecm.pdb
+D:\c#Code\utldecm\utldecm\obj\Release\ResolveAssemblyReference.cache
+D:\c#Code\utldecm\utldecm\obj\Release\utldecm.frmOpenIncomingInventory.resources
+D:\c#Code\utldecm\utldecm\obj\Release\utldecm.Properties.Resources.resources
+D:\c#Code\utldecm\utldecm\obj\Release\utldecm.csproj.GenerateResource.Cache
+D:\c#Code\utldecm\utldecm\obj\Release\utldecm.exe
+D:\c#Code\utldecm\utldecm\obj\Release\utldecm.pdb

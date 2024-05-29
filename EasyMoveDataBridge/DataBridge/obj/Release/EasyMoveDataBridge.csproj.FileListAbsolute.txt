@@ -1,0 +1,27 @@
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\ResolveAssemblyReference.cache
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.csproj.GenerateResource.Cache
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.exe
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.pdb
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmEasyMoveCompiereBridge.resources
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmsettings.resources
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.Properties.Resources.resources
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.exe
+D:\pos-compiere integration\C# Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.pdb
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.exe
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.pdb
+D:\c#Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.exe
+D:\c#Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.pdb
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\ResolveAssemblyReference.cache
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmEasyMoveCompiereBridge.resources
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmsettings.resources
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.Properties.Resources.resources
+D:\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.csproj.GenerateResource.Cache
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.exe
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.pdb
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmEasyMoveCompiereBridge.resources
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.frmsettings.resources
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.Properties.Resources.resources
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\obj\Release\EasyMoveDataBridge.csproj.GenerateResource.Cache
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.exe
+C:\Users\ammar\Documents\Coding Project\c#Code\EasyMoveDataBridge\DataBridge\bin\Release\EasyMoveDataBridge.pdb

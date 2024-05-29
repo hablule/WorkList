@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Settings>
+    <Parameter_Name>txtCompPort</Parameter_Name>
+    <Parameter_Value>1521</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckCompLogChangeScripts</Parameter_Name>
+    <Parameter_Value>True</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompMapDataTiming</Parameter_Name>
+    <Parameter_Value>1</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompWarningDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\CompiereToEasyMove\ErrorsAndWarnings</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompErrorDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\CompiereToEasyMove\ErrorsAndWarnings</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompPassword</Parameter_Name>
+    <Parameter_Value>compiere</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompUserName</Parameter_Name>
+    <Parameter_Value>compiere</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompDataBaseName</Parameter_Name>
+    <Parameter_Value>maindb.glorious</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompServerName</Parameter_Name>
+    <Parameter_Value>glhqserver</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtCompScriptDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\CompiereToEasyMove\scripts</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckEasyMoveAutoStartSynch</Parameter_Name>
+    <Parameter_Value>True</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckEasyMoveLogChangeScripts</Parameter_Name>
+    <Parameter_Value>True</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMovePort</Parameter_Name>
+    <Parameter_Value>3306</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveMapDataTiming</Parameter_Name>
+    <Parameter_Value>3</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveWarningDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\EasyMoveToCompiere\ErrorsAndWarnings</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveErrorDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\EasyMoveToCompiere\ErrorsAndWarnings</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMovePassword</Parameter_Name>
+    <Parameter_Value>e4r5t6y7</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveUserName</Parameter_Name>
+    <Parameter_Value>root</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveDataBaseName</Parameter_Name>
+    <Parameter_Value>easymove</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveServerName</Parameter_Name>
+    <Parameter_Value>192.168.63.3</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>txtEasyMoveScriptDir</Parameter_Name>
+    <Parameter_Value>D:\Data Mapping\EasyMoveToCompiere\scripts</Parameter_Value>
+  </Settings>
+  <Settings>
+    <Parameter_Name>ckCompAutoStartSynch</Parameter_Name>
+    <Parameter_Value>True</Parameter_Value>
+  </Settings>
+</DocumentElement>
